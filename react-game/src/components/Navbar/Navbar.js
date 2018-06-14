@@ -3,10 +3,10 @@ import "./Navbar.css";
 
 const Navbar = () => (
     <div className="nav-container">
-        <nav className="navbar navbar-dark bg-dark">
-            <span className="navbar-brand mb-0 h1">Fútbol Click Game</span>
-            <span className="navbar-brand mb-0 h2">Click an image to begin!</span>
-            <span className="navbar-brand mb-0 h3">Score: 0 | Top Score: 0</span>
+        <nav className="navbar navbar">
+            <span className="navbar-brand" >Soccer Click Game</span>
+            <span className="navbar-brand" >Click on Image to Begin</span>
+            <span className="navbar-brand" >Score: 0 | Top Score: 0</span>
         </nav>
     </div>
 );

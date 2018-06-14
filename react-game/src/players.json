@@ -58,5 +58,17 @@
         "name": "Luis Suarez",
         "image": "./images/Suarez.jpg",
         "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Harry Kane",
+        "image": "./images/Kane.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Thiago Silva",
+        "image": "./images/Thiago.jpg",
+        "clicked": false
     }
 ]
